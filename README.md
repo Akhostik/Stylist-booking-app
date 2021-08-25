@@ -1,6 +1,6 @@
 # Stylist Booking App
 
-A new Flutter application that helps you connect with hairstylists,makeup artists, fashion designers etc. It also gives you a wide number of options to choose your desired style
+A new Flutter application(UI ) that helps you connect with hairstylists,makeup artists, fashion designers etc. It also gives you a wide number of options to choose your desired style
 
 ## Getting Started
 
